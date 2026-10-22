@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix  TrendAI - Real-Time CSV Data Analyzer",
+  "description": "Streamlit-inspired real-time CSV data analyzer with interactive dynamic filtering, multi-metric dashboards, trend visualization with moving averages \u0026 anomalies, and Gemini AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
